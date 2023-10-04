@@ -1,0 +1,221 @@
+﻿;Observation_name;Phylum;Class;Order;Family;Genus;Features;References
+GROWING PHASE (09-21);Cluster_3874;Chloroflexi;Anaerolineae;-;-;-;-;-
+;Cluster_1012;Candidate WPS-2;unknown class;-;-;-;-;-
+;Cluster_1422;Myxococcota;Polyangia;-;-;-;-;-
+;Cluster_2039;Bacteroidota;Bacteroidia;Chitinophagales;-;-;-;-
+;Cluster_3210;Actinobacteriota;Thermoleophilia;Gaiellales;-;-;-;-
+;Cluster_5961;Planctomycetota;Planctomycetes;Planctomycetales;-;-;-;-
+;Cluster_2860;Chloroflexi;Chloroflexia;Thermomicrobiales;-;-;-;-
+;Cluster_5298;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;-;-;-
+;Cluster_3113;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Belnapia;-;-
+;Cluster_2439;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Rubritepida;-;-
+;Cluster_822;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Cnuella;-;-
+;Cluster_687;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Cnuella;-;-
+;Cluster_1502;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Flavitalea;-;-
+;Cluster_1557;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Edaphobaculum;-;-
+;Cluster_1551;Planctomycetota;Planctomycetes;Isosphaerales;Isosphaeraceae;Candidatus Nostocoida;-;-
+;Cluster_3131;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rubellimicrobium;-;-
+;Cluster_1233;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rubellimicrobium;-;-
+;Cluster_2230;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rubellimicrobium;-;-
+;Cluster_2958;Actinobacteriota;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Solirubrobacter;-;-
+;Cluster_1243;Bacteroidota;Bacteroidia;Cytophagales;Spirosomaceae;Rhabdobacter;-;-
+;Cluster_2691;Bacteroidota;Bacteroidia;Cytophagales;Spirosomaceae;Rudanella;-;-
+;Cluster_2075;Proteobacteria;Gammaproteobacteria;Burkholderiales;Sutterellaceae;-;-;-
+;Cluster_1498;Proteobacteria;Gammaproteobacteria;Burkholderiales;Nitrosomonadaceae;Nitrosospira;Ammonium oxidizing bacteria;Pertti et al., 1984
+;Cluster_3538;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Flavisolibacter;"Associate to other bacteria in process of denitrification ; Breakdown organic C";Liu et al., 2014
+;Cluster_1519;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Flavisolibacter;"Associate to other bacteria in process of denitrification ; Breakdown organic C";Liu et al., 2014
+;Cluster_701;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Flavisolibacter;"Associate to other bacteria in process of denitrification ; Breakdown organic C";Liu et al., 2014
+;Cluster_2671;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;Fimbriiglobus;Chitinolytic activities;Ravin et al., 2018
+;Cluster_1415;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;Fimbriiglobus;Chitinolytic activities;Ravin et al., 2018
+;Cluster_665;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Alkanindiges;"Consuming lipids ; Foam formation";Klein et al., 2007
+;Cluster_3019;Actinobacteriota;Actinobacteria;Propionibacteriales;Nocardioidaceae;Nocardioides;Degradation of complex organic matter¬†;Yoon and Park., 2006
+;Cluster_4465;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;"Degradation of Microsystin ; Biodegrade refractory organic compounds";"Valeria et al., 2006 ; White et al., 1996"
+;Cluster_1474;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;"Degradation of Microsystin ; Biodegrade refractory organic compounds";"Valeria et al., 2006 ; White et al., 1996"
+;Cluster_24856;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;"Degradation of Microsystin ; Biodegrade refractory organic compounds";"Valeria et al., 2006 ; White et al., 1996"
+;Cluster_10568;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;"Degradation of Microsystin ; Biodegrade refractory organic compounds";"Valeria et al., 2006 ; White et al., 1996"
+;Cluster_635;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;"Degradation of Microsystin ; Biodegrade refractory organic compounds";"Valeria et al., 2006 ; White et al., 1996"
+;Cluster_2953;Acidobacteriota;Blastocatellia;Blastocatellales;Blastocatellaceae;Blastocatella;Degradation of NH4+;Ouyang et al., 2017
+;Cluster_1149;Actinobacteriota;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;Conexibacter;Degrades lincomycin;Lei et al., 2022
+;Cluster_920;Gemmatimonadota;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;-;Denitrification;Jia et al., 2019
+;Cluster_703;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus;"Denitrification ; Biofilm formation";Kumar & Spiro, 2017
+;Cluster_6116;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonas;Denitrification and ammonification;Wu et al., 2018
+;Cluster_1083;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Noviherbaspirillum;Denitrifying bacteria;Ishii et al., 2017
+;Cluster_734;Bacteroidota;Bacteroidia;Cytophagales;Hymenobacteraceae;Hymenobacter;Dominant microorganisms in a partial nitrification  / Degrade complex organic coumponds;Guo et al., 2020
+;Cluster_2467;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;-;"Essential players in plant function (N fixation) ; Biofilm formation";Dourado et al., 2015
+;Cluster_933;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;-;"Essential players in plant function (N fixation) ; Biofilm formation";Dourado et al., 2015
+;Cluster_4699;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Ferruginibacter;Hydrolizing organic matter;Lim et al., 2009
+;Cluster_1300;Armatimonadota;Fimbriimonadia;Fimbriimonadales;Fimbriimonadaceae;-;Involved in ANAMOX process;Silveira et al., 2021
+;Cluster_1015;Deinococcota;Deinococci;Deinococcales;Deinococcaceae;Deinococcus;Metal reduction / production of antimicrobial particles;Chen et al., 2017
+;Cluster_1860;Deinococcota;Deinococci;Deinococcales;Deinococcaceae;Deinococcus;Metal reduction / production of antimicrobial particles;Chen et al., 2017
+;Cluster_3053;Actinobacteriota;Actinobacteria;Frankiales;-;-;N fixation;Barka et al., 2016
+;Cluster_19679;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Nitrogen fixation;Kumar & Gera., 2014
+;Cluster_2287;Abditibacteriota;Abditibacteria;Abditibacteriales;Abditibacteriaceae;Abditibacterium;"Optimized for survival in low-nutrient habitat ; Extreme resistane against toxic coumponds";Tahon et al., 2018
+;Cluster_1205;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;-;Potential denitrification pathway¬†;Khan et al., 2002
+;Cluster_3232;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;-;Potential denitrification pathway¬†;Khan et al., 2002
+;Cluster_3032;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;Potential denitrification pathway¬†;Xu et al., 2022
+;Cluster_2729;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteimonas;"Production of N2O ; Degradation of OM (production of amylase, cellulose and chitinase)";"Finkmann et al., 2000 ; Zhang et al., 2015"
+;Cluster_5142;Actinobacteriota;Actinobacteria;Corynebacteriales;Nocardiaceae;Rhodococcus;Recycling organic matter;Bell et al., 1998
+;Cluster_2370;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;Substrate uptakes and growth;Kasalick_ et al., 2013
+;Cluster_1297;Bacteroidota;Kapabacteria;Kapabacteriales;-;-;Sulfite reduction;Kadnikov et al., 2020
+;Cluster_1939;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Ramlibacter;"Uptake / Storage : PO43_ ; C ; NH3+";"Props et al.,2019 ; Zuo et al., 2020"
+;Cluster_1221;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;Gemmata;Using Carbohydrate for C and energy sources;Fuerst and butler., 2022
+;Cluster_1969;Proteobacteria;Gammaproteobacteria;Salinisphaerales;Solimonadaceae;-;Ability to decompose chemical pollutants;Zhou et al., 2014
+;Cluster_3174;Proteobacteria;Gammaproteobacteria;Steroidobacterales;Steroidobacteraceae;-;-;-
+;Cluster_2941;Acidobacteriota;Vicinamibacteria;Vicinamibacterales;Vicinamibacteraceae;-;-;-
+DECLINING PHASE (10-12);Cluster_2469;Latescibacterota;unknown class;-;-;-;-;-
+;Cluster_2703;Firmicutes;Clostridia;-;-;-;-;-
+;Cluster_774;Proteobacteria;Gammaproteobacteria;-;-;-;-;-
+;Cluster_2788;Chloroflexi;Anaerolineae;-;-;-;-;-
+;Cluster_2201;Actinobacteriota;Thermoleophilia;Gaiellales;-;-;-;-
+;Cluster_5328;Firmicutes;Bacilli;Lactobacillales;Aerococcaceae;Aerococcus;-;-
+;Cluster_1696;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;-;-;-
+;Cluster_15993;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Segetibacter;-;-
+;Cluster_2277;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Edaphobaculum;-;-
+;Cluster_2364;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Caenimonas;-;-
+;Cluster_2235;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Xenophilus;-;-
+;Cluster_1225;Actinobacteriota;Actinobacteria;Corynebacteriales;Dietziaceae;Dietzia;-;-
+;Cluster_2095;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;-;-;-
+;Cluster_967;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;-;-;-
+;Cluster_1561;Planctomycetota;Planctomycetes;Pirellulales;Pirellulaceae;-;-;-
+;Cluster_3233;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;-;-;-
+;Cluster_3231;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;-;-;-
+;Cluster_1902;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;-;-;-
+;Cluster_1499;Bacteroidota;Bacteroidia;Sphingobacteriales;Sphingobacteriaceae;Sphingobacterium;-;-
+;Cluster_5390;Bacteroidota;Bacteroidia;Sphingobacteriales;Sphingobacteriaceae;Sphingobacterium;-;-
+;Cluster_4439;Bacteroidota;Bacteroidia;Sphingobacteriales;Sphingobacteriaceae;Sphingobacterium;-;-
+;Cluster_4755;Bacteroidota;Bacteroidia;Cytophagales;Spirosomaceae;Pseudarcicella;-;-
+;Cluster_1218;Bacteroidota;Bacteroidia;Cytophagales;Spirosomaceae;Pseudarcicella;-;-
+;Cluster_3059;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Silanimonas;-;-
+;Cluster_4813;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Algicidal properties against cyanobacteria;Meyer et al., 2017
+;Cluster_2688;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Algicidal properties against cyanobacteria;Meyer et al., 2017
+;Cluster_3076;Planctomycetota;Phycisphaerae;Phycisphaerales;Phycisphaeraceae;-;Chemoautotrophic;Qu et al., 2022
+;Cluster_1396;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;Fimbriiglobus;Chitinolytic activities;Ravin et al., 2018
+;Cluster_1640;Actinobacteriota;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Pseudonocardia;"Degrade N-containing aromatic components ; Anti-bacterial and fungal activities";Riahi et al.,2020
+;Cluster_884;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus;"Denitrification ; Biofilm formation";Kumar & Spiro, 2017
+;Cluster_1653;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;"Dissolve Phosphate ; Implicate in N and iron cycles in soil";"Zheng et al., 2017 ; Peng et al., 2019"
+;Cluster_1194;Bacteroidota;Bacteroidia;Cytophagales;Hymenobacteraceae;Hymenobacter;Dominant microorganisms in a partial nitrification  / Degrade complex organic coumponds;Guo et al., 2020
+;Cluster_2007;Bacteroidota;Bacteroidia;Cytophagales;Hymenobacteraceae;Hymenobacter;Dominant microorganisms in a partial nitrification  / Degrade complex organic coumponds;Guo et al., 2020
+;Cluster_1107;Bacteroidota;Bacteroidia;Cytophagales;Spirosomaceae;Emticicia;Enhance growth of certain microalgues;Toyama et al., 2019
+;Cluster_4887;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Methylobacterium-Methylorubrum;"Essential players in plant function (N fixation) ; Biofilm formation";Dourado et al., 2015
+;Cluster_26003;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Methylobacterium-Methylorubrum;"Essential players in plant function (N fixation) ; Biofilm formation";Dourado et al., 2015
+;Cluster_328;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Methylobacterium-Methylorubrum;"Essential players in plant function (N fixation) ; Biofilm formation";Dourado et al., 2015
+;Cluster_447;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Methylobacterium-Methylorubrum;"Essential players in plant function (N fixation) ; Biofilm formation";Dourado et al., 2015
+;Cluster_4509;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Methylobacterium-Methylorubrum;"Essential players in plant function (N fixation) ; Biofilm formation";Dourado et al., 2015
+;Cluster_763;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Methylobacterium-Methylorubrum;"Essential players in plant function (N fixation) ; Biofilm formation";Dourado et al., 2015
+;Cluster_935;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Methylobacterium-Methylorubrum;"Essential players in plant function (N fixation) ; Biofilm formation";Dourado et al., 2015
+;Cluster_13216;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Magnetospirillaceae;Magnetospirillum;Fix N;Ji et al., 2013
+;Cluster_1439;Deinococcota;Deinococci;Deinococcales;Deinococcaceae;Deinococcus;Metal reduction / production of antimicrobial particles;Chen et al., 2017
+;Cluster_3595;Deinococcota;Deinococci;Deinococcales;Deinococcaceae;Deinococcus;Metal reduction / production of antimicrobial particles;Chen et al., 2017
+;Cluster_2902;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylomonadaceae;-;Methane oxydation;"Bowman, 2014 ; Taubert et al., 2019"
+;Cluster_2853;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rhodoferax;Photosynthetic heterotroph, key organism in high turbidity environments;Zhang et al., 2022
+;Cluster_1296;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Roseomonas;Potential bio-indicator of Cyanobacteria blooms;Gu et al., 2022
+;Cluster_24775;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Roseomonas;Potential bio-indicator of Cyanobacteria blooms;Gu et al., 2022
+;Cluster_4609;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Roseomonas;Potential bio-indicator of Cyanobacteria blooms;Gu et al., 2022
+;Cluster_1240;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;-;Potential denitrification pathway¬†;Khan et al., 2002
+;Cluster_1153;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;-;Potential denitrification pathway¬†;Khan et al., 2002
+;Cluster_1319;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;-;Potential denitrification pathway¬†;Khan et al., 2002
+;Cluster_3305;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;-;Potential denitrification pathway¬†;Khan et al., 2002
+;Cluster_3165;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;-;Potential denitrification pathway¬†;Khan et al., 2002
+;Cluster_4412;Myxococcota;Polyangia;Nannocystales;Nannocystaceae;Nannocystis;Production of bioflocullant¬†;Zhang et al., 2002
+;Cluster_1031;Fusobacteriota;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;Cetobacterium;Promote the decomposition of organic matter¬†;Borsodi et al., 2017
+;Cluster_4330;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;-;Sugar fermentation / Degradation of refractories compounds;Azman et al., 2017
+;Cluster_1933;Desulfobacterota;Desulfobulbia;Desulfobulbales;Desulfobulbaceae;Desulfobulbus;Sulfate and Fe(III) reduction¬†;Holmes et al., 2004
+;Cluster_482;Desulfobacterota;Desulfobacteria;Desulfobacterales;Desulfosarcinaceae;Desulfatirhabdium;Sulfate reduction¬†;Galushko et al., 2008
+;Cluster_2801;Bacteroidota;Kapabacteria;Kapabacteriales;-;-;Sulfite reduction;Kadnikov et al., 2020
+;Cluster_2101;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Ramlibacter;"Uptake / Storage : PO43_ ; C ; NH3+";"Props et al.,2019 ; Zuo et al., 2020"
+;Cluster_3281;Planctomycetota;Planctomycetes;Pirellulales;Pirellulaceae;Candidatus Anammoximicrobium;use annamox pathway;Liu et al., 2015
+;Cluster_1138;Planctomycetota;Planctomycetes;Pirellulales;Pirellulaceae;Pirellula;use annamox pathway;Op den Camp et al., 2007
+;Cluster_2523;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;Gemmata;Using Carbohydrate for C and energy sources;Fuerst and butler., 2022
+;Cluster_513;Proteobacteria;Alphaproteobacteria;Reyranellales;Reyranellaceae;Reyranella;Nitrate reduction;Chen et al., 2020
+;Cluster_1602;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium;Promote N absorption;Syromyatnikov et al., 2022
+;Cluster_2817;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;-;-;-
+;Cluster_2967;Desulfobacterota;Syntrophia;Syntrophales;Smithellaceae;Smithella;Degradation of propionate;Liu et al., 1999
+;Cluster_838;Proteobacteria;Gammaproteobacteria;Salinisphaerales;Solimonadaceae;-;Ability to decompose chemical pollutants;Zhou et al., 2014
+;Cluster_4273;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Altererythrobacter;Algicidal activities;Lei et al., 2014
+;Cluster_1596;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Altererythrobacter;Algicidal activities;Lei et al., 2014
+END OF BLOOM (11-02);Cluster_1025;Desulfobacterota;Desulfuromonadia;-;-;-;-;-
+;Cluster_2044;Myxococcota;Polyangia;-;-;-;-;-
+;Cluster_4530;Bdellovibrionota;Oligoflexia;-;-;-;-;-
+;Cluster_3503;Myxococcota;Polyangia;-;-;-;-;-
+;Cluster_491;Candidate WPS-2;unknown class;-;-;-;-;-
+;Cluster_501;Planctomycetota;Phycisphaerae;Phycisphaerales;-;-;-;-
+;Cluster_4650;Bacteroidota;Bacteroidia;Sphingobacteriales;-;-;-;-
+;Cluster_3054;Bacteroidota;Bacteroidia;Sphingobacteriales;-;-;-;-
+;Cluster_6951;Bacteroidota;Bacteroidia;Sphingobacteriales;-;-;-;-
+;Cluster_5032;Desulfobacterota;Syntrophia;Syntrophales;-;-;-;-
+;Cluster_2025;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;-;-;-
+;Cluster_3355;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Parasediminibacterium;-;-
+;Cluster_3100;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;-;-;-
+;Cluster_2012;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;-;-;-
+;Cluster_1316;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Agitococcus;-;-
+;Cluster_4007;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;-;-;-
+;Cluster_4123;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Candidatus Aquirestis;-;-
+;Cluster_2634;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Candidatus Aquirestis;-;-
+;Cluster_4258;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Candidatus Aquirestis;-;-
+;Cluster_3429;Bacteroidota;Bacteroidia;Cytophagales;Spirosomaceae;Arcicella;Accumulate P;Cakmak et al., 2022
+;Cluster_892;Bacteroidota;Bacteroidia;Cytophagales;Spirosomaceae;Arcicella;Accumulate P;Cakmak et al., 2022
+;Cluster_1238;Bacteroidota;Bacteroidia;Cytophagales;Spirosomaceae;Arcicella;Accumulate P;Cakmak et al., 2022
+;Cluster_3888;Actinobacteriota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Microlunatus;Acuumulation and release of P;Nakamura et al., 1995
+;Cluster_528;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Algicidal properties against cyanobacteria;Meyer et al., 2017
+;Cluster_3523;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Algicidal properties against cyanobacteria;Meyer et al., 2017
+;Cluster_7955;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Algicidal properties against cyanobacteria;Meyer et al., 2017
+;Cluster_2657;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Algicidal properties against cyanobacteria;Meyer et al., 2017
+;Cluster_3461;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Algicidal properties against cyanobacteria;Meyer et al., 2017
+;Cluster_4438;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Algicidal properties against cyanobacteria;Meyer et al., 2017
+;Cluster_1572;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Algicidal properties against cyanobacteria;Meyer et al., 2017
+;Cluster_18901;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Algicidal properties against cyanobacteria;Meyer et al., 2017
+;Cluster_2384;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Algicidal properties against cyanobacteria;Meyer et al., 2017
+;Cluster_3115;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Algicidal properties against cyanobacteria;Meyer et al., 2017
+;Cluster_6205;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Algicidal properties against cyanobacteria;Meyer et al., 2017
+;Cluster_1658;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Flavisolibacter;"Associate to other bacteria in process of denitrification ; Breakdown organic C";Liu et al., 2014
+;Cluster_4801;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;Biofilm formation;Irankhah et al., 2019
+;Cluster_5164;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;Biofilm formation;Irankhah et al., 2019
+;Cluster_5150;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;Biofilm formation;Irankhah et al., 2019
+;Cluster_3710;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;Biofilm formation;Irankhah et al., 2019
+;Cluster_2394;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Biofilm formation;Auerbach et al., 2000
+;Cluster_4698;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Biofilm formation;Auerbach et al., 2000
+;Cluster_863;Bacteroidota;Bacteroidia;Cytophagales;Spirosomaceae;Flectobacillus;Biofilm formation;Furuhata et al., 2008
+;Cluster_3219;Bacteroidota;Bacteroidia;Cytophagales;Spirosomaceae;Flectobacillus;Biofilm formation;Furuhata et al., 2008
+;Cluster_3658;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Portibacter;Breaking down organic matter / Growing attached to surface;Papadatou et al., 2021
+;Cluster_2167;Chloroflexi;Chloroflexia;Kallotenuales;-;-;Cellulolytic activities;Cole et al., 2013
+;Cluster_361;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;Fimbriiglobus;Chitinolytic activities;Ravin et al., 2018
+;Cluster_591;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;Fimbriiglobus;Chitinolytic activities;Ravin et al., 2018
+;Cluster_674;Myxococcota;Polyangia;Polyangiales;Phaselicystidaceae;Phaselicystis;Degradation of biopolymers;Jiang et al., 2020
+;Cluster_13026;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;"Degradation of Microsystin ; Biodegrade refractory organic compounds";"Valeria et al., 2006 ; White et al., 1996"
+;Cluster_649;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Giesbergeria;Degradation of nitrogen heterocyclic compounds and phenols;Shi et al., 2019
+;Cluster_5352;Planctomycetota;Planctomycetes;Isosphaerales;Isosphaeraceae;Tundrisphaera;Degradation of organic matter;Perez-mon et al., 2022
+;Cluster_2281;Proteobacteria;Gammaproteobacteria;Burkholderiales;Aquaspirillaceae;Aquaspirillum;Denitrification;Bazlinski et Blakemore., 1983
+;Cluster_14301;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonas;Denitrification and ammonification;Wu et al., 2018
+;Cluster_1869;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;"Dissolve Phosphate ; Implicate in N and iron cycles in soil";"Zheng et al., 2017 ; Peng et al., 2019"
+;Cluster_1049;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;"Dissolve Phosphate ; Implicate in N and iron cycles in soil";"Zheng et al., 2017 ; Peng et al., 2019"
+;Cluster_3292;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;"Dissolve Phosphate ; Implicate in N and iron cycles in soil";"Zheng et al., 2017 ; Peng et al., 2019"
+;Cluster_1952;Bacteroidota;Bacteroidia;Cytophagales;Hymenobacteraceae;Hymenobacter;Dominant microorganisms in a partial nitrification biofilm / Degrade complex organic coumponds;Guo et al., 2020
+;Cluster_5117;Bacteroidota;Bacteroidia;Cytophagales;Hymenobacteraceae;Hymenobacter;Dominant microorganisms in a partial nitrification biofilm / Degrade complex organic coumponds;Guo et al., 2020
+;Cluster_1484;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Methylobacterium-Methylorubrum;"Essential players in plant function (N fixation) ; Biofilm formation";Dourado et al., 2015
+;Cluster_4382;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Methylobacterium-Methylorubrum;"Essential players in plant function (N fixation) ; Biofilm formation";Dourado et al., 2015
+;Cluster_2067;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Methylobacterium-Methylorubrum;"Essential players in plant function (N fixation) ; Biofilm formation";Dourado et al., 2015
+;Cluster_2556;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Methylobacterium-Methylorubrum;"Essential players in plant function (N fixation) ; Biofilm formation";Dourado et al., 2015
+;Cluster_4239;Proteobacteria;Alphaproteobacteria;Azospirillales;Azospirillaceae;Azospirillum;Favoring N fixation;Bashan et al., 2004
+;Cluster_5038;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Magnetospiraceae;Magnetospira;Fix N;Ji et al., 2013
+;Cluster_26116;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Candidatus Symbiobacter;Involved in prokariotic symbiosis;Liu et al., 2013
+;Cluster_1789;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylomonadaceae;-;Methane oxydation;"Bowman, 2014 ; Taubert et al., 2019"
+;Cluster_33116;Proteobacteria;Gammaproteobacteria;Burkholderiales;Hydrogenophilaceae;Spirillum;N2 fixation;Day and D√∂bereiner., 1976
+;Cluster_4394;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;Nitrogen fixation;Kumar & Gera., 2014
+;Cluster_2519;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;"NO3- reduction ; Cellulolytic bacterium";"Kim et al., 2014 ; Nahm et al., 2017"
+;Cluster_1554;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;"NO3- reduction ; Cellulolytic bacterium";"Kim et al., 2014 ; Nahm et al., 2017"
+;Cluster_5126;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;"NO3- reduction ; Cellulolytic bacterium";"Kim et al., 2014 ; Nahm et al., 2017"
+;Cluster_1329;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;"NO3- reduction ; Cellulolytic bacterium";"Kim et al., 2014 ; Nahm et al., 2017"
+;Cluster_4398;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;"NO3- reduction ; Cellulolytic bacterium";"Kim et al., 2014 ; Nahm et al., 2017"
+;Cluster_2078;Proteobacteria;Alphaproteobacteria;Holosporales;Holosporaceae;-;Obligatory associated with eukaryotes;Castelli et al., 2021
+;Cluster_3325;Bacteroidota;Bacteroidia;Cytophagales;Spirosomaceae;Dyadobacter;"Production of polysaccharide ; Key to algae fitness";Astafyeva et al., 2022
+;Cluster_20748;Actinobacteriota;Actinobacteria;Corynebacteriales;Nocardiaceae;Rhodococcus;Recycling organic matter;Bell et al., 1998
+;Cluster_2292;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;Gemmata;Using Carbohydrate for C and energy sources;Fuerst and butler., 2022
+;Cluster_1749;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;Gemmata;Using Carbohydrate for C and energy sources;Fuerst and butler., 2022
+;Cluster_4720;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium;Promote N absorption;Syromyatnikov et al., 2022
+;Cluster_5846;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiales Incertae Sedis;Bauldia;Biomarker of poor N and P environment;Wongkiew t al., 2022
+;Cluster_1072;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Amaricoccus;Nitrification / denitrification¬†;Wang et al., 2020
+;Cluster_23740;Planctomycetota;Planctomycetes;Planctomycetales;Schlesneriaceae;Planctopirus;Enhance formation of biofilm¬†;Kruppa and Czermak., 2022
+;Cluster_1851;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Rhizorhapis;May have bioremediation abilities;Siles et al., 2022
+;Cluster_2431;Firmicutes;Negativicutes;Veillonellales-Selenomonadales;Sporomusaceae;Pelosinus;Metal reduction¬†;Biundo et al., 2016
+;Cluster_3546;Actinobacteriota;Actinobacteria;Streptomycetales;Streptomycetaceae;-;Antimicrobial activities¬†;kampfer et al., 2014
+;Cluster_31644;Proteobacteria;Alphaproteobacteria;Zavarziniales;Zavarziniaceae;-;-;
